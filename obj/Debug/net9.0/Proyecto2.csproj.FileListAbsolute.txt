@@ -12,3 +12,4 @@ C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\r
 C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.pdb
 C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.genruntimeconfig.cache
 C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\ref\Proyecto2.dll
+C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.sourcelink.json

@@ -108,8 +108,21 @@ namespace Proyecto2
         // Verifica que el nombre no esté vacío
         if (string.IsNullOrEmpty(name))
         {
+
           Console.Write("Ingresar Nombre de estudiante aqui => ");
+
           name = Console.ReadLine();
+
+          bool exists = managerStudent.All().Find(item => item.Name.ToLower() == name.ToLower()) != null;
+
+          if (exists)
+          {
+            name = "";
+            Console.WriteLine();
+            Console.WriteLine("Este usuario ya existe. Para continuar presione Enter");
+            Console.ReadLine();
+            continue;
+          }
           Console.WriteLine();
 
           if (string.IsNullOrEmpty(name))
@@ -169,17 +182,25 @@ namespace Proyecto2
           // Intenta eliminar el estudiante
           if (managerStudent.Remove(nameStudent))
           {
+
             Console.WriteLine();
+
             Console.WriteLine("Estudiante eliminado de manera exitosa. Para continuar presione Enter...");
+
             Console.ReadLine();
+
             break; // Sale si se elimina correctamente
           }
 
           // Si no se encontró el estudiante
           Console.WriteLine();
+
           Console.WriteLine("Fallo la eliminacion del estudiante. El nombre digitado no se encontro en la lista");
+
           Console.WriteLine("Para volver a intentarlo presione Enter...");
+
           Console.ReadLine();
+
           continue;
         }
 
