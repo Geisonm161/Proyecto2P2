@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\justo\\Source\\Repos\\Proyecto2P2\\Proyecto2.csproj": {}
+    "C:\\Users\\justo\\source\\repos\\Proyecto2P2\\Proyecto2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\justo\\Source\\Repos\\Proyecto2P2\\Proyecto2.csproj": {
+    "C:\\Users\\justo\\source\\repos\\Proyecto2P2\\Proyecto2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\justo\\Source\\Repos\\Proyecto2P2\\Proyecto2.csproj",
+        "projectUniqueName": "C:\\Users\\justo\\source\\repos\\Proyecto2P2\\Proyecto2.csproj",
         "projectName": "Proyecto2",
-        "projectPath": "C:\\Users\\justo\\Source\\Repos\\Proyecto2P2\\Proyecto2.csproj",
+        "projectPath": "C:\\Users\\justo\\source\\repos\\Proyecto2P2\\Proyecto2.csproj",
         "packagesPath": "C:\\Users\\justo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\justo\\Source\\Repos\\Proyecto2P2\\obj\\",
         "projectStyle": "PackageReference",
