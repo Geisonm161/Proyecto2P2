@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuar\\Documents\\Fundamento de Programacion\\Proyecto2\\Proyecto2.csproj": {}
+    "/Users/jeffry/Downloads/Proyecto2P2/Proyecto2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuar\\Documents\\Fundamento de Programacion\\Proyecto2\\Proyecto2.csproj": {
+    "/Users/jeffry/Downloads/Proyecto2P2/Proyecto2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuar\\Documents\\Fundamento de Programacion\\Proyecto2\\Proyecto2.csproj",
+        "projectUniqueName": "/Users/jeffry/Downloads/Proyecto2P2/Proyecto2.csproj",
         "projectName": "Proyecto2",
-        "projectPath": "C:\\Users\\usuar\\Documents\\Fundamento de Programacion\\Proyecto2\\Proyecto2.csproj",
-        "packagesPath": "C:\\Users\\usuar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuar\\Documents\\Fundamento de Programacion\\Proyecto2\\obj\\",
+        "projectPath": "/Users/jeffry/Downloads/Proyecto2P2/Proyecto2.csproj",
+        "packagesPath": "/Users/jeffry/.nuget/packages/",
+        "outputPath": "/Users/jeffry/Downloads/Proyecto2P2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/jeffry/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

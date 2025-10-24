@@ -1,15 +1,30 @@
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\bin\Debug\net9.0\Proyecto2.exe
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\bin\Debug\net9.0\Proyecto2.deps.json
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\bin\Debug\net9.0\Proyecto2.runtimeconfig.json
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\bin\Debug\net9.0\Proyecto2.dll
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\bin\Debug\net9.0\Proyecto2.pdb
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.AssemblyInfoInputs.cache
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.AssemblyInfo.cs
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.csproj.CoreCompileInputs.cache
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.dll
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\refint\Proyecto2.dll
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.pdb
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.genruntimeconfig.cache
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\ref\Proyecto2.dll
-C:\Users\usuar\Documents\Fundamento de Programacion\Proyecto2\obj\Debug\net9.0\Proyecto2.sourcelink.json
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/bin/Debug/net9.0/Proyecto2.exe
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/bin/Debug/net9.0/Proyecto2.deps.json
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/bin/Debug/net9.0/Proyecto2.runtimeconfig.json
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/bin/Debug/net9.0/Proyecto2.dll
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/bin/Debug/net9.0/Proyecto2.pdb
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.AssemblyInfoInputs.cache
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.AssemblyInfo.cs
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.csproj.CoreCompileInputs.cache
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.dll
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/refint/Proyecto2.dll
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.pdb
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.genruntimeconfig.cache
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/ref/Proyecto2.dll
+C:/Users/usuar/Documents/Fundamento de Programacion/Proyecto2/obj/Debug/net9.0/Proyecto2.sourcelink.json
+/Users/jeffry/Downloads/Proyecto2P2/bin/Debug/net9.0/Proyecto2
+/Users/jeffry/Downloads/Proyecto2P2/bin/Debug/net9.0/Proyecto2.deps.json
+/Users/jeffry/Downloads/Proyecto2P2/bin/Debug/net9.0/Proyecto2.runtimeconfig.json
+/Users/jeffry/Downloads/Proyecto2P2/bin/Debug/net9.0/Proyecto2.dll
+/Users/jeffry/Downloads/Proyecto2P2/bin/Debug/net9.0/Proyecto2.pdb
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.AssemblyInfoInputs.cache
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.AssemblyInfo.cs
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.csproj.CoreCompileInputs.cache
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.sourcelink.json
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.dll
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/refint/Proyecto2.dll
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.pdb
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/Proyecto2.genruntimeconfig.cache
+/Users/jeffry/Downloads/Proyecto2P2/obj/Debug/net9.0/ref/Proyecto2.dll

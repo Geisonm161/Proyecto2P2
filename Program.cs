@@ -39,7 +39,8 @@ namespace Proyecto2
             break;
 
           case "3":
-            // Task();    // (pendiente de implementación)
+             var manejadorTareas = new Proyecto2P2.Models.ManejadorTareas();
+             manejadorTareas.EjecutarSubMenu();
             break;
 
           case "4":
