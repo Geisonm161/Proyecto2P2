@@ -35,8 +35,11 @@ namespace Proyecto2
             break;
 
           case "2":
-            // Client();  // (pendiente de implementación)
-            break;
+                        Console.Clear();
+                        var manejadorClientes = new Proyecto2P2.Models.ManejadorClientes();
+                        manejadorClientes.EjecutarSubMenu();
+                        break;
+
 
           case "3":
              var manejadorTareas = new Proyecto2P2.Models.ManejadorTareas();
